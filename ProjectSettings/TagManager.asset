@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - pos0
+  - pos1
+  - Target
+  - Endtarget
+  - Kimchi
+  - Leek
+  - Noodle
+  - Meat
+  - Sauce
+  - ManduPi
+  - manduIn
+  - KmanduIn
+  - Steamer
+  - dishes
+  - CKkmandu
+  - CKMandu
+  - Kmandu
+  - Mandu
+  - SteamerHead
+  - Button
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Meat
+  - Noodle
+  - Leek
+  - Kimchi
+  - SoySource
+  - DumplingSkin
+  - DumplingIn
+  - KDumplingIn
+  - Dumpling
+  - SteamerHead
+  - Dish
+  - DishInside
+  - Bowl
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
